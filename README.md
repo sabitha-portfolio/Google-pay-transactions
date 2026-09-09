@@ -34,4 +34,4 @@ An end-to-end **Google Pay Transaction Analysis** project focused on analyzing t
 - Business Analysis
 - Insight Generation
 
-👉 **[View Project →](https://github.com/sabitha-portfolio/Google-pay-transactions)**
+👉 **[View Project →](https://github.com/sabitha-portfolio/Google-pay-transactions/blob/main/Screenshot%202026-09-09%20135133.png)
